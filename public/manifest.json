@@ -1,0 +1,10 @@
+{
+  "name": "Mountain Rush",
+  "short_name": "Mountain Rush",
+  "description": "2D physics-based hill climbing racing game",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#111827",
+  "theme_color": "#0f172a"
+}

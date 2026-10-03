@@ -1,0 +1,7 @@
+{
+  "name": "Mountain Rush",
+  "description": "A 2D physics-based hill climbing racing game with original vehicles, terrain, and upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
