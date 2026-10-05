@@ -1,3 +1,4 @@
+<img width="1024" height="768" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/74640ac2-3e8a-43ae-a3d7-ce41089f1bdd" />
 # 🏔️ Mountain Rush
 
 Mountain Rush is an exciting mountain adventure game built with modern web technologies. 
